@@ -1,2 +1,7 @@
 # DeepLearningLAB
-MSc dEEPLearning experiences at UNIPD
+MSc laboratory experiences and Homeworks at UNIPD
+
+## Lab 2 - Introduction to PyTorch
+**Notebook link:** []()
+**Content:**
+ - ...
