@@ -1,0 +1,3 @@
+Train loss:	0.244
+Train loss:	0.241
+Train loss:	0.201
