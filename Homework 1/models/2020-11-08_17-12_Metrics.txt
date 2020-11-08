@@ -1,0 +1,5 @@
+Train loss:	0.172
+Val loss:	0.466
+Test loss:	0.056
+
+Basic con L2 Norm 1e-5
