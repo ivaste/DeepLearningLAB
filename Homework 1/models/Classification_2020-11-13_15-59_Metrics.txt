@@ -1,0 +1,19 @@
+Train loss:	1.576
+Val loss:	1.572
+Val acc:	0.889
+Test acc:	0.887
+Precision:	0.887
+Recall:		0.887
+F1:		0.887
+
+Most 10 mispredicted labels
+212	2-8
+163	3-5
+147	4-9
+121	0-5
+111	1-8
+109	4-6
+97	3-8
+85	0-2
+84	5-8
+65	7-9

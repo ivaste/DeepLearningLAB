@@ -4,7 +4,8 @@ MSc laboratory experiences and Homeworks at UNIPD
 #Homeworks
 
 ## Homework 1 - Supervised Deep Learning (Regression and Classification on MNIST)
-**Notebook link:** [nndl_2020__homework_1](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/nndl_2020__homework_1.ipynb)  
+**Notebook link:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20%20Regression.ipynb)  
+**Notebook link:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20Classification.ipynb)  
 **Report:** [...]()  
 **Content:**
  - 2 pt: implement basic regression and classification tasks
@@ -28,7 +29,7 @@ MSc laboratory experiences and Homeworks at UNIPD
 **Content:**
  - Regression with 2 FC layers
  - Classification with 2FC layers
- - Access to network parameters of Fully connected layer
+ - Access to network parameters of a Fully connected layer
  - Weights histogram
  - Analyze activations
  
