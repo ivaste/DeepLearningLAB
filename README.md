@@ -23,8 +23,19 @@ MSc laboratory experiences and Homeworks at UNIPD
  - Network trainig procedure: initialization, process input, loss, backpropagation, Optimizer
  - Dataset and Dataloader
  
-## Lab 3 - Regression with PyTorch
+## Lab 3 - Regression and Classification with PyTorch
 **Notebook link:** [nndl_2020_lab_03_regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Lab%2003/nndl_2020_lab_03_regression.ipynb)  
 **Content:**
- - ...
+ - Regression with 2 FC layers
+ - Classification with 2FC layers
+ - Access to network parameters of Fully connected layer
+ - Weights histogram
+ - Analyze activations
  
+## Lab 4 - Text Generation
+**Notebook link:** [nndl_2020_lab_04_text_generation]()  
+**Content:**
+ - shakespeare sonnets
+ - One hot encoding
+ - Train LSTM
+ - Generate text letter by letter
