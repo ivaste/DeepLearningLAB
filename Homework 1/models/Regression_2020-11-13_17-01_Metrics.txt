@@ -1,3 +1,0 @@
-Train loss:	7.959
-Val loss:	3.927
-Test loss:	5.324
