@@ -1,11 +1,11 @@
 # DeepLearningLAB
-MSc laboratory experiences and Homeworks at UNIPD
+MSc laboratory experiences and Homeworks at UNIPD 2020
 
 #Homeworks
 
 ## Homework 1 - Supervised Deep Learning (Regression and Classification on MNIST)
-**Notebook link:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20%20Regression.ipynb)  
-**Notebook link:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20Classification.ipynb)  
+**Notebook link 1:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20%20Regression.ipynb)  
+**Notebook link 2:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20Classification.ipynb)  
 **Report:** [...]()  
 **Content:**
  - 2 pt: implement basic regression and classification tasks
@@ -13,6 +13,18 @@ MSc laboratory experiences and Homeworks at UNIPD
  - 1 pt: optimize hyperparameters using grid/random search and cross-validation
  - 2 pt: implement CNN for classification task
  - 1 pt: visualize weight histograms, activation profiles and receptive fields
+
+## Homework 2 - Unsupervised Deep Learning
+**Notebook link:** [Homework 2 - Unsupervised Deep Learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%202/Ivancich%20Stefano%20HW2.ipynb)  
+**Report:** []()  
+**Content:**
+ - 1 pt: implement and test (convolutional) autoencoder, reporting the trend of reconstruction loss and some examples of image reconstruction
+ - 1 pt: explore advanced optimizers and regularization methods
+ - 1 pt: optimize hyperparameters using grid/random search and cross-validation
+ - 1 pt: explore the latent space structure (e.g., PCA, t-SNE) and generate new samples from latent codes
+ - 1 pt: implement and test denoising (convolutional) autoencoder
+ - 1 pt: fine-tune the (convolutional) autoencoder using a supervised classification task (you can compare classification accuracy and learning speed with results achieved in homework 1)
+ - 2 pt: implement variational (convolutional) autoencoder or GAN
 
 
 # Laboratories
@@ -34,9 +46,21 @@ MSc laboratory experiences and Homeworks at UNIPD
  - Analyze activations
  
 ## Lab 4 - Text Generation
-**Notebook link:** [nndl_2020_lab_04_text_generation]()  
+**Notebook link:** [nndl_2020_lab_04_text_generation](https://github.com/ivaste/DeepLearningLAB/blob/main/Lab%2004/nndl_2020_lab_04_text_generation.ipynb)  
 **Content:**
  - shakespeare sonnets
  - One hot encoding
  - Train LSTM
  - Generate text letter by letter
+ 
+ ## Lab 5 - Convolutional Autoencoder
+ **Notebook link:** [nndl_2020_lab_05_convolutional_autoencoder](https://github.com/ivaste/DeepLearningLAB/blob/main/Lab%2005/nndl_2020_lab_05_convolutional_autoencoder_with_solutions.ipynb)  
+ **Content:**
+ - Encoder-Decoder
+ - Encoded Space Visualization
+ - Generate samples from the encoded space 
+ 
+ ## Lab 6 - Transfer Learning
+ **Notebook link:** []()  
+ **Content:**
+ - ...
