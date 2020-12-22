@@ -75,7 +75,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  - Network analysis
  
  ## Lab 7 - Reinforcement Learning
- **Notebook link:** []()  
+ **Notebook link:** [nndl_2020_lab_07_deep_reinforcement_learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Lab%2007/nndl_2020_lab_07_deep_reinforcement_learning_with_solutions.ipynb)  
  **Content:**
   - DQN
   - Gym Environment (CartPole-v1)
