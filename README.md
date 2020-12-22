@@ -1,11 +1,11 @@
 # DeepLearningLAB
 MSc laboratory experiences and Homeworks at UNIPD 2020
 
-#Homeworks
+# Homeworks
 
 ## Homework 1 - Supervised Deep Learning (Regression and Classification on MNIST)
-**Notebook link 1:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20%20Regression.ipynb)  
-**Notebook link 2:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/Homework%201%20-%20Classification.ipynb)  
+**Notebook link 1:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Regression.ipynb)  
+**Notebook link 2:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Classification.ipynb)  
 **Report:** [...]()  
 **Content:**
  - 2 pt: implement basic regression and classification tasks
@@ -25,6 +25,8 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  - 1 pt: implement and test denoising (convolutional) autoencoder
  - 1 pt: fine-tune the (convolutional) autoencoder using a supervised classification task (you can compare classification accuracy and learning speed with results achieved in homework 1)
  - 2 pt: implement variational (convolutional) autoencoder or GAN
+
+## Homework 3 - Deep Reinforcement Learning
 
 
 # Laboratories
@@ -61,6 +63,12 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  - Generate samples from the encoded space 
  
  ## Lab 6 - Transfer Learning
+ **Notebook link:** [nndl_2020_lab_06_transfer_learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Lab%2006/nndl_2020_lab_06_transfer_learning_with_solutions.ipynb)  
+ **Content:**
+ - Alex net
+ - Network analysis
+ 
+ ## Lab 7 - Reinforcement Learning
  **Notebook link:** []()  
  **Content:**
- - ...
+  - ...
