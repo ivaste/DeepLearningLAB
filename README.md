@@ -27,6 +27,12 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  - 2 pt: implement variational (convolutional) autoencoder or GAN
 
 ## Homework 3 - Deep Reinforcement Learning
+**Notebook link:** [Homework 3 - Deep Reinforcement Learning]()  
+**Report:** []()  
+**Content:**
+ - 2 pt: extend the notebook used in Lab 07, in order to study how the exploration profile (either using eps-greedy or softmax) impacts the learning curve. Try to tune the model hyperparameters or tweak the reward function in order to speed-up learning convergence (i.e., reach the same accuracy with fewer training episodes).
+ - 3 pt: extend the notebook used in Lab 07, in order to learn to control the CartPole environment using directly the screen pixels, rather than the compact state representation used during the Lab (cart position, cart velocity, pole angle, pole angular velocity). This will require to change the “observation_space”.
+ - 3 pt: train a deep RL agent on a different Gym environment. You are free to choose whatever Gym environment you like from the available list, or even explore other simulation platforms.
 
 
 # Laboratories
@@ -71,4 +77,5 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  ## Lab 7 - Reinforcement Learning
  **Notebook link:** []()  
  **Content:**
-  - ...
+  - DQN
+  - Gym Environment (CartPole-v1)
