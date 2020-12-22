@@ -15,7 +15,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  - 1 pt: visualize weight histograms, activation profiles and receptive fields
 
 ## Homework 2 - Unsupervised Deep Learning
-**Notebook link:** [Homework 2 - Unsupervised Deep Learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%202/Ivancich%20Stefano%20HW2.ipynb)  
+**Notebook link:** [Homework 2 - Unsupervised Deep Learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%202/HW2_IvancichStefano_1227846.ipynb)  
 **Report:** []()  
 **Content:**
  - 1 pt: implement and test (convolutional) autoencoder, reporting the trend of reconstruction loss and some examples of image reconstruction
