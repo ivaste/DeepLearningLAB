@@ -3,7 +3,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
 
 # Homeworks
 
-## Homework 1 - Supervised Deep Learning (Regression and Classification on MNIST)
+## Homework 1 - Supervised Deep Learning
 **Notebook link 1:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Regression.ipynb)  
 **Notebook link 2:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Classification.ipynb)  
 **Report:** [...]()  
@@ -11,7 +11,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  - 2 pt: implement basic regression and classification tasks
  - 2 pt: explore advanced optimizers and regularization methods
  - 1 pt: optimize hyperparameters using grid/random search and cross-validation
- - 2 pt: implement CNN for classification task
+ - 2 pt: implement CNN for classification task on MNIST
  - 1 pt: visualize weight histograms, activation profiles and receptive fields
 
 ## Homework 2 - Unsupervised Deep Learning
