@@ -6,7 +6,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
 ## Homework 1 - Supervised Deep Learning
 **Notebook link 1:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Regression.ipynb)  
 **Notebook link 2:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Classification.ipynb)  
-**Report:** [...]()  
+**Report:** [...work in progress...]()  
 **Content:**
  - 2 pt: implement basic regression and classification tasks
  - 2 pt: explore advanced optimizers and regularization methods
@@ -16,7 +16,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
 
 ## Homework 2 - Unsupervised Deep Learning
 **Notebook link:** [Homework 2 - Unsupervised Deep Learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%202/HW2_IvancichStefano_1227846.ipynb)  
-**Report:** []()  
+**Report:** [...work in progress...]()  
 **Content:**
  - 1 pt: implement and test (convolutional) autoencoder, reporting the trend of reconstruction loss and some examples of image reconstruction
  - 1 pt: explore advanced optimizers and regularization methods
@@ -27,8 +27,8 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
  - 2 pt: implement variational (convolutional) autoencoder or GAN
 
 ## Homework 3 - Deep Reinforcement Learning
-**Notebook link:** [Homework 3 - Deep Reinforcement Learning]()  
-**Report:** []()  
+**Notebook link:** [Homework 3 - Deep Reinforcement Learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%203/HW3_IvancichStefano_1227846.ipynb)  
+**Report:** [...work in progress...]()  
 **Content:**
  - 2 pt: extend the notebook used in Lab 07, in order to study how the exploration profile (either using eps-greedy or softmax) impacts the learning curve. Try to tune the model hyperparameters or tweak the reward function in order to speed-up learning convergence (i.e., reach the same accuracy with fewer training episodes).
  - 3 pt: extend the notebook used in Lab 07, in order to learn to control the CartPole environment using directly the screen pixels, rather than the compact state representation used during the Lab (cart position, cart velocity, pole angle, pole angular velocity). This will require to change the “observation_space”.
