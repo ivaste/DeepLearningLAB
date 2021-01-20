@@ -6,7 +6,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
 ## Homework 1 - Supervised Deep Learning
 **Notebook link 1:** [Homework 1 - Regression](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Regression.ipynb)  
 **Notebook link 2:** [Homework 1 - Classification](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1_IvancichStefano_1227846_Classification.ipynb)  
-**Report:** [...work in progress...]()  
+**Report:** [HW1 Ivancich Stefano 1227846.pdf](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%201/HW1%20Ivancich%20Stefano%201227846.pdf)  
 **Content:**
  - 2 pt: implement basic regression and classification tasks
  - 2 pt: explore advanced optimizers and regularization methods
@@ -16,7 +16,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
 
 ## Homework 2 - Unsupervised Deep Learning
 **Notebook link:** [Homework 2 - Unsupervised Deep Learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%202/HW2_IvancichStefano_1227846.ipynb)  
-**Report:** [...work in progress...]()  
+**Report:** [HW2 Ivancich Stefano 1227846.pdf](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%202/HW2%20Ivancich%20Stefano%201227846.pdf)  
 **Content:**
  - 1 pt: implement and test (convolutional) autoencoder, reporting the trend of reconstruction loss and some examples of image reconstruction
  - 1 pt: explore advanced optimizers and regularization methods
