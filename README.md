@@ -1,5 +1,5 @@
-# DeepLearningLAB
-MSc laboratory experiences and Homeworks at UNIPD 2020
+# DeepLearning LAB
+MSc laboratory experiences and Homeworks at UNIPD 2020/21 for the NEURAL NETWORKS AND DEEP LEARNING course
 
 # Homeworks
 
@@ -28,7 +28,7 @@ MSc laboratory experiences and Homeworks at UNIPD 2020
 
 ## Homework 3 - Deep Reinforcement Learning
 **Notebook link:** [Homework 3 - Deep Reinforcement Learning](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%203/HW3_IvancichStefano_1227846.ipynb)  
-**Report:** [...work in progress...]()  
+**Report:** [HW3 Ivancich Stefano 1227846.pdf](https://github.com/ivaste/DeepLearningLAB/blob/main/Homework%203/HW3%20Ivancich%20Stefano%201227846.pdf)  
 **Content:**
  - 2 pt: extend the notebook used in Lab 07, in order to study how the exploration profile (either using eps-greedy or softmax) impacts the learning curve. Try to tune the model hyperparameters or tweak the reward function in order to speed-up learning convergence (i.e., reach the same accuracy with fewer training episodes).
  - 3 pt: extend the notebook used in Lab 07, in order to learn to control the CartPole environment using directly the screen pixels, rather than the compact state representation used during the Lab (cart position, cart velocity, pole angle, pole angular velocity). This will require to change the “observation_space”.
